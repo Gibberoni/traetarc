@@ -1,0 +1,91 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "LoreofTraetarc",
+				"abbreviation": "LOT",
+				"full": "Lore of Traetarc",
+				"version": "1",
+				"color": "008000"
+			}
+		]
+	},
+	"monster": [
+		{
+			"name": "Talonic Order Spearman",
+			"size": [
+				"M"
+			],
+			"type": "humanoid",
+			"source": "LoreofTraetarc",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 12,
+					"from": [
+						"{@item leather armor|phb}"
+					]
+				}
+			],
+			"hp": {
+				"formula": "2d10",
+				"average": 11
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 12,
+			"dex": 12,
+			"con": 10,
+			"int": 8,
+			"wis": 8,
+			"cha": 10,
+			"passive": 9,
+			"cr": "1/4",
+			"level": 2,
+			"languages": [
+				"Common"
+			],
+			"languageTags": [
+				"C"
+			],
+			"action": [
+				{
+					"name": "Spear",
+					"entries": [
+						"{@atk mw,rw} {@hit 3} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}5 ({@damage 1d6 + 1}) piercing damage in melee, or 5 ({@damage 1d6 + 1}) damage at range. Deals 5 ({@damage 1d8 + 1}) damage if two handed."
+					]
+				}
+			],
+			"miscTags": [
+				"RW",
+				"MW",
+				"MLW",
+				"THW"
+			],
+			"attachedItems": [
+				"spear|phb"
+			],
+			"trait": [
+				{
+					"name": "Talonic Loyalty",
+					"entries": [
+						"If another member of the Talonic order has taken damage in the last round, within 10ft of this character, the spearman deals an additional ({@damage 1d4}) damage on his next spear attack."
+					]
+				}
+			],
+			"group": [
+				"Talonic Order"
+			],
+			"tokenHref": {
+				"type": "external",
+				"url": "https://5etools.hallstechnology.net/homebrew/img/beastiary/traetarc/TalontarSoldierToken.webp"
+			},
+			"damageTags": [
+				"P"
+			]
+		}
+	]
+}
