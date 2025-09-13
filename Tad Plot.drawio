@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.1.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1">
   <diagram name="Page-1" id="TiYxunoltYz1eJ-f9bSA">
-    <mxGraphModel dx="1425" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="RjJuVABV243Jv9v1LTHk-1" value="A pathway illuminates to a well in the city" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="385" y="60" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MpEvuP4VgYi1m7KaWZpf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RjJuVABV243Jv9v1LTHk-2" target="MpEvuP4VgYi1m7KaWZpf-2">
+        <mxCell id="MpEvuP4VgYi1m7KaWZpf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RjJuVABV243Jv9v1LTHk-2" target="MpEvuP4VgYi1m7KaWZpf-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RjJuVABV243Jv9v1LTHk-2" value="There is something in the water that is connecting everyone" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -19,13 +19,13 @@
         <mxCell id="RjJuVABV243Jv9v1LTHk-3" value="Raiders stopped attacking" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MpEvuP4VgYi1m7KaWZpf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RjJuVABV243Jv9v1LTHk-4" target="MpEvuP4VgYi1m7KaWZpf-6">
+        <mxCell id="MpEvuP4VgYi1m7KaWZpf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RjJuVABV243Jv9v1LTHk-4" target="MpEvuP4VgYi1m7KaWZpf-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RjJuVABV243Jv9v1LTHk-4" value="The 3 Alchemists" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MpEvuP4VgYi1m7KaWZpf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RjJuVABV243Jv9v1LTHk-5" target="MpEvuP4VgYi1m7KaWZpf-5">
+        <mxCell id="MpEvuP4VgYi1m7KaWZpf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="RjJuVABV243Jv9v1LTHk-5" target="MpEvuP4VgYi1m7KaWZpf-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RjJuVABV243Jv9v1LTHk-5" value="The crazy witch in the woods" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -34,38 +34,44 @@
         <mxCell id="RjJuVABV243Jv9v1LTHk-6" value="The guards that recognized the party tell Giken and he arrives" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="495" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MpEvuP4VgYi1m7KaWZpf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MpEvuP4VgYi1m7KaWZpf-2" target="RjJuVABV243Jv9v1LTHk-4">
+        <mxCell id="MpEvuP4VgYi1m7KaWZpf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MpEvuP4VgYi1m7KaWZpf-2" target="RjJuVABV243Jv9v1LTHk-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MpEvuP4VgYi1m7KaWZpf-2" value="Tad needs specialized equipment to determine exactly what it is" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MpEvuP4VgYi1m7KaWZpf-2" value="Tad needs specialized equipment to determine exactly what it is" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MpEvuP4VgYi1m7KaWZpf-5" value="&lt;div&gt;Church wants the relics&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MpEvuP4VgYi1m7KaWZpf-5" value="&lt;div&gt;Church wants the relics&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MpEvuP4VgYi1m7KaWZpf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MpEvuP4VgYi1m7KaWZpf-6" target="MpEvuP4VgYi1m7KaWZpf-10">
+        <mxCell id="MpEvuP4VgYi1m7KaWZpf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MpEvuP4VgYi1m7KaWZpf-6" target="MpEvuP4VgYi1m7KaWZpf-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MpEvuP4VgYi1m7KaWZpf-6" value="Tad finds a hidden formula for a timed poison his parents created" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="MpEvuP4VgYi1m7KaWZpf-6" value="Tad finds a hidden formula for a timed poison his parents created" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="380" y="480" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="MpEvuP4VgYi1m7KaWZpf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MpEvuP4VgYi1m7KaWZpf-10" target="RjJuVABV243Jv9v1LTHk-5">
+        <mxCell id="MpEvuP4VgYi1m7KaWZpf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MpEvuP4VgYi1m7KaWZpf-10" target="RjJuVABV243Jv9v1LTHk-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MpEvuP4VgYi1m7KaWZpf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MpEvuP4VgYi1m7KaWZpf-10" target="MpEvuP4VgYi1m7KaWZpf-14">
+        <mxCell id="MpEvuP4VgYi1m7KaWZpf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MpEvuP4VgYi1m7KaWZpf-10" target="MpEvuP4VgYi1m7KaWZpf-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MpEvuP4VgYi1m7KaWZpf-10" value="Hidden deep within the notes, there was an antidote that requires a special material" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MpEvuP4VgYi1m7KaWZpf-10" value="Hidden deep within the notes, there was an antidote that requires a special material" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="595" width="120" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="MpEvuP4VgYi1m7KaWZpf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MpEvuP4VgYi1m7KaWZpf-14" target="MpEvuP4VgYi1m7KaWZpf-16">
+        <mxCell id="MpEvuP4VgYi1m7KaWZpf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MpEvuP4VgYi1m7KaWZpf-14" target="MpEvuP4VgYi1m7KaWZpf-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MpEvuP4VgYi1m7KaWZpf-14" value="His parents were forced to create the formula to keep Tad safe.&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MpEvuP4VgYi1m7KaWZpf-14" value="His parents were forced to create the formula to keep Tad safe.&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="710" width="120" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="MpEvuP4VgYi1m7KaWZpf-16" value="Merchant was an agent of the Talonic Order, and spread the poison once made" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MpEvuP4VgYi1m7KaWZpf-16" value="Merchant was an agent of the Talonic Order, and spread the poison once made" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="717.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qyXeGvvcsMyaDMFVfvbq-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qyXeGvvcsMyaDMFVfvbq-1" target="RjJuVABV243Jv9v1LTHk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qyXeGvvcsMyaDMFVfvbq-1" value="&lt;span style=&quot;color: rgb(17, 17, 17); font-family: Roboto, sans-serif; font-size: 13px; text-align: left; text-wrap-mode: wrap; background-color: rgb(241, 235, 232);&quot;&gt;Hillborne&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; scrollbar-width: thin; scrollbar-color: rgb(93, 20, 43) rgba(0, 0, 0, 0); color: rgb(17, 17, 17); font-family: Roboto, sans-serif; font-size: 13px; text-align: left; text-wrap-mode: wrap; background-color: rgb(241, 235, 232);&quot;&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: Roboto, sans-serif; font-size: 13px; text-align: left; text-wrap-mode: wrap; background-color: rgb(241, 235, 232);&quot;&gt;pesura&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; scrollbar-width: thin; scrollbar-color: rgb(93, 20, 43) rgba(0, 0, 0, 0); color: rgb(17, 17, 17); font-family: Roboto, sans-serif; font-size: 13px; text-align: left; text-wrap-mode: wrap; background-color: rgb(241, 235, 232);&quot;&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: Roboto, sans-serif; font-size: 13px; text-align: left; text-wrap-mode: wrap; background-color: rgb(241, 235, 232);&quot;&gt;Midz&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="403" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
